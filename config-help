@@ -1,0 +1,13 @@
+MAX_CHARGE_CURRENT Here you can set maximum charging current. If the actual charging current will be higher that this value you will get an email notification. Only integer is allowed here
+MAX_DISCH_CURRENT Here you can set maximum discharging current. If the actual discharging current will be higher that this value you will get an email notification. Only integer is allowed here
+SMTP_IP This in used for setting your SMTP server. You can set you own or you can use for example "smtp.gmail.com"
+SMTP_PORT This is port for you smtp server
+Password If your smtp server requires password and login, you have to write your password here. If this is empty, this program will try to send emails without trying to log into the server.
+Email_send_to This is email adress that you want to send emails to. You can send multiple adresses here. You have to split them with ";". For example: xecajo2956@mnqlm.com;xixocid225@ppp998.com
+Email_send_from This is the adress that you want to send emails from. You can set only one adress.
+Email_sender_name You can set name for you email adress sender here. For example: BC16_warnings
+Email_subject This is your email subject. You can leave this empty if you do not want to use any.
+ERROR_interval This value is in minutes (only integer). If there will be some kind of error or warning, you will receive email only once per x minutes that you set here.
+
+The program loads config file only once when it starts so if you want to change any value here and the program is working, 
+you can make any changes in the file, but you have to shut the program down and start it up again to apply the changes.
