@@ -1,0 +1,10 @@
+MAX_CHARGE_CURRENT 2
+MAX_DISCH_CURRENT 8
+SMTP_IP
+SMTP_PORT
+Password
+Email_send_to
+Email_send_from
+Email_sender_name BC16
+Email_subject BC16 test
+ERROR_interval 10
