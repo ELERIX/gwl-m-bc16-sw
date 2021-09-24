@@ -1,1 +1,0 @@
-To install driver for CH340 chip you can download "CH341SER.EXE" file. Connect your device, start the file, the UAC windows will appeard, click YES, than click on "INSTALL" and wait before the installation is complete. Than you can close the program and your driver should be working. After this process, you can start the main program for reading data from BC16.
