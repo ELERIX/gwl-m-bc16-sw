@@ -1,7 +1,0 @@
-
-
-2021-09-24 10:00:45  [INFO]           Program started
-2021-09-24 10:00:45  [WARNING]        Receiver email adress is not properly written in config file, no email will be sent
-2021-09-24 10:00:45  [WARNING]        Password to sender email adress is not defined in config file. Program will try to send emails without login command
-2021-09-24 10:00:45  [INFO]           Scanning virtual COM ports for BC16
-2021-09-24 10:00:45  [ERROR]          Device not found
